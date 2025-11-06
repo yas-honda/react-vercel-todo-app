@@ -1,0 +1,5 @@
+{
+  "name": "Vercel Full-Stack To-Do App",
+  "description": "A To-Do list application built with React and Vercel Functions, using Vercel Postgres for storage. Users can view and add tasks through a clean, modern interface.",
+  "requestFramePermissions": []
+}
